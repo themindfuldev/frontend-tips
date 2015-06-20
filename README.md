@@ -23,18 +23,16 @@ Tips for becoming a world class frontend developer
 * Performance
 * SEO
 * Accessibility
-* Your favorite editor as Sublime Text / Brackets / Atom.io / WebStorm
+* Your favorite editor as Sublime Text / Brackets / Atom.io / WebStorm / VIM
+
+## Start here
+* http://uptodate.frontendrescue.org/
+* http://oswaldoacauan.github.io/keep-up-to-date-brazuca/
 
 ## Games
 * http://codecombat.com/
 * http://www.kuatostudios.com/games/hakitzu-elite/
 * http://play.elevatorsaga.com/
-
-## Guides
-* https://www.udacity.com/career-paths/front-end-web-developer
-* http://jstherightway.org/
-* http://browserdiet.com/en/
-* http://superherojs.com/
 
 ## Free books
 * http://jsbooks.revolunet.com/
@@ -45,13 +43,19 @@ Tips for becoming a world class frontend developer
 
 ## Free courses
 * http://www.codecademy.com/
-* https://www.khanacademy.org/
 * http://www.freecodecamp.com/
-* https://www.udacity.com/
+* https://www.khanacademy.org/computing/computer-programming
+* https://www.udacity.com/career-paths/front-end-web-developer
+* http://www.teaching-materials.org/
 
 ## Paid courses
 * https://www.codeschool.com/
 * https://www.udemy.com/
+
+## Guides
+* http://jstherightway.org/
+* http://browserdiet.com/en/
+* http://superherojs.com/
 
 ## References
 * http://devdocs.io/
@@ -59,6 +63,8 @@ Tips for becoming a world class frontend developer
 * https://github.com/ericelliott/essential-javascript-links
 * https://www.bento.io/
 * http://simpl.info/
+* https://github.com/davidsonfellipe/awesome-wpo
+* https://github.com/dypsilon/frontend-dev-bookmarks
 
 ## Newsletter
 * http://javascriptweekly.com/
@@ -70,6 +76,4 @@ Tips for becoming a world class frontend developer
 ## Challenges
 * http://www.codewars.com/
 * https://www.hackerrank.com/
-* http://www.topcoder.com/
-* https://code.google.com/codejam
-* http://www.codechef.com/
+* http://codekata.com/
