@@ -28,6 +28,8 @@ Tips for becoming a world class frontend developer
 ## Start here
 * http://uptodate.frontendrescue.org/
 * http://oswaldoacauan.github.io/keep-up-to-date-brazuca/
+* http://tiagorg.com/categories/talk/
+* http://avenuecode.com/what-is-all-the-fuss-about-with-front-end-development-2/
 
 ## Games
 * http://codecombat.com/
