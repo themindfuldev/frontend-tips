@@ -17,6 +17,11 @@ Tips for becoming a world class frontend developer
   * Runners as Grunt, Gulp, Karma
   * Module standards as AMD/RequireJS, CommonJS
   * ES6
+* Node.js & NPM
+* Git & Github
+* Performance
+* SEO
+* Accessibility
 
 ## Guides
 * https://www.udacity.com/career-paths/front-end-web-developer
